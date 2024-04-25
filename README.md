@@ -6,7 +6,7 @@
 
 - 🔭 I’m zheng junhao (郑俊豪). I’m currently a PhD student in South China University of Technology
 - 🤔 My research interests include large language models, continual learning/incremental learning, causal inference. [[Google Scholar](https://scholar.google.com/citations?user=eyh-5tkAAAAJ&hl=zh-CN)][[Github](https://github.com/zzz47zzz)] 
-- 📫 How to reach me: junhaozheng47@outlook.com
+- 📫 How to reach me: A @ B dot C, where A is junhaozheng47, B is outlook, C is com
 
 <!--
 - 👯 I’m looking to collaborate on ...
